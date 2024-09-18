@@ -620,37 +620,37 @@ hr {
 }
 
 .strategy {
-    background-image: url(/images/services-icon-1.png);
+    background-image: url(../images/services-icon-1.png);
 
     background-position: top;
 }
 
 .analysis {
-    background-image: url(/images/services-icon-2.png);
+    background-image: url(../images/services-icon-2.png);
 }
 
 .social {
-    background-image: url(/images/services-icon-3.png);
+    background-image: url(../images/services-icon-3.png);
 }
 
 .development {
-    background-image: url(/images/services-icon-4.png);
+    background-image: url(../images/services-icon-4.png);
 }
 
 .content {
-    background-image: url(/images/services-icon-5.png);
+    background-image: url(../images/services-icon-5.png);
 }
 
 .design {
-    background-image: url(/images/services-icon-6.png);
+    background-image: url(../images/services-icon-6.png);
 }
 
 .target {
-    background-image: url(/images/services-icon-7.png);
+    background-image: url(../images/services-icon-7.png);
 }
 
 .product {
-    background-image: url(/images/services-icon-8.png);
+    background-image: url(../images/services-icon-8.png);
 }
 
 .meaning {
@@ -1415,7 +1415,7 @@ hr {
 .latest-news2-img {
     width: 270px;
     height: 342px;
-    background-image: url(/images/news-2.png);
+    background-image: url(../images/news-2.png);
 }
 
 .latest-news-3 {
@@ -1426,7 +1426,7 @@ hr {
 .latest-news3-img {
     width: 270px;
     height: 423px;
-    background-image: url(/images/news-3.png);
+    background-image: url(../images/news-3.png);
     position: relative;
 }
 
@@ -1438,7 +1438,7 @@ hr {
 .latest-news4-img {
     width: 270px;
     height: 210px;
-    background-image: url(/images/news-4.png);
+    background-image: url(../images/news-4.png);
 }
 
 .latest-news-5 {
@@ -1449,7 +1449,7 @@ hr {
 .latest-news5-img {
     width: 270px;
     height: 207px;
-    background-image: url(/images/news-5.png);
+    background-image: url(../images/news-5.png);
 
 }
 
@@ -1461,7 +1461,7 @@ hr {
 .latest-news6-img {
     width: 270px;
     height: 342px;
-    background-image: url(/images/news-6.png);
+    background-image: url(../images/news-6.png);
 
 }
 
@@ -1473,7 +1473,7 @@ hr {
 .latest-news7-img {
     width: 270px;
     height: 218px;
-    background-image: url(/images/news-7.png);
+    background-image: url(../images/news-7.png);
 
 }
 
@@ -1485,7 +1485,7 @@ hr {
 .latest-news8-img {
     width: 270px;
     height: 437px;
-    background-image: url(/images/news-8.png);
+    background-image: url(../images/news-8.png);
 
 }
 
@@ -1895,7 +1895,7 @@ hr {
     height: 60px;
     display: flex;
     background-color: #2B4074;
-    content: url(/images/Group2.svg);
+    content: url(../images/Group2.svg);
     place-content: center;
     box-sizing: border-box;
     border-radius: 5px;
